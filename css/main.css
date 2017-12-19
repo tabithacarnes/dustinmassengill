@@ -1,0 +1,62 @@
+/*top navbar*/
+.nav-link {
+	color: black;
+	font-family: 'Merriweather', serif;
+}
+
+.nav-item a:hover {
+	color: lightgreen;
+}
+
+/*Home page*/
+	/*jumbotron*/
+	.jumbotron {
+		margin-top: 50px;
+		margin-right: 50px;
+		margin-left: 50px;
+		background-color: white;
+		max-width: 700px;
+	}
+
+	.jumbotron h1 {
+		font-family: 'Fjalla One', sans-serif;
+	}
+
+	.jumbotron p {
+		font-family: 'Merriweather', serif;
+	}
+
+	.jumbotron a {
+		margin-top: 10px;
+	}
+/*End of Home page*/
+
+/*Photostories Page*/
+#photostories {
+	margin-top: 30px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.card {
+	margin-top: 20px;
+}
+
+.card p {
+	font-family: 'Merriweather', serif;
+}
+
+
+/*South Street page*/
+.container p, img {
+	margin-top: 20px;
+}
+
+/*bottom navbar*/
+.navbar a {
+	color: black;
+	font-family: 'Merriweather', serif;
+	font-size: 15px;
+}
+
+
+
