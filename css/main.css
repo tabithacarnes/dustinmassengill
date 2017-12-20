@@ -60,6 +60,12 @@
 	margin-top: 20px;
 }
 
+
+/*Bio page*/
+#dustin:hover {
+	opacity: 1;
+}
+
 /*bottom navbar*/
 .navbar a {
 	color: black;
