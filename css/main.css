@@ -39,6 +39,15 @@
 
 .card {
 	margin-top: 20px;
+	border: none;
+}
+
+.card img:hover {
+	opacity: 0.75;
+}
+
+.card-body {
+	padding: 5px 0px 15px 15px;
 }
 
 .card p {
